@@ -1061,7 +1061,7 @@ a:focus {
 }
 
 .citi-story {
-  margin-bottom: 0;
+  margin-bottom: 34px;
 }
 
 .citi-gallery-main {
@@ -1075,6 +1075,10 @@ a:focus {
 
 .citi-gallery .citi-panel-photo {
   object-position: center bottom;
+}
+
+.aws-gallery {
+  margin-bottom: 0;
 }
 
 .event-takeaways {
